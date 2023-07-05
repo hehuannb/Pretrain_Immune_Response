@@ -1,0 +1,11 @@
+TCGA/
+TCGA-Normal/
+otherdata/
+data/
+runs/
+wandb/
+models/
+preprocessed/
+_pycache_/
+*._pycache_
+*.pt
